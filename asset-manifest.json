@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sman3bojonegoro/static/css/main.536e33e5.css",
+    "main.js": "/sman3bojonegoro/static/js/main.a6e69760.js",
+    "static/js/787.ff093841.chunk.js": "/sman3bojonegoro/static/js/787.ff093841.chunk.js",
+    "static/media/slide2.jpeg": "/sman3bojonegoro/static/media/slide2.860c176ac9e0d5203aac.jpeg",
+    "static/media/hero1.jpeg": "/sman3bojonegoro/static/media/hero1.a77861d3d74b9ab6feba.jpeg",
+    "static/media/aboutsmaga.jpeg": "/sman3bojonegoro/static/media/aboutsmaga.9c1f06713e7054d032c3.jpeg",
+    "static/media/galeri5.jpg": "/sman3bojonegoro/static/media/galeri5.b475fd9a73f8592d53f0.jpg",
+    "static/media/galeri6.jpg": "/sman3bojonegoro/static/media/galeri6.551233b9a3b98e44b015.jpg",
+    "static/media/sfl.jpeg": "/sman3bojonegoro/static/media/sfl.e2cbb547b9435da8290a.jpeg",
+    "static/media/slide1.jpeg": "/sman3bojonegoro/static/media/slide1.d8bd009a76d22761df2d.jpeg",
+    "static/media/hut-ri.jpeg": "/sman3bojonegoro/static/media/hut-ri.c85a40ea3992b18bd4e6.jpeg",
+    "static/media/galeri4.jpg": "/sman3bojonegoro/static/media/galeri4.24419797b039a015d3b1.jpg",
+    "static/media/isra'-mi'raj.jpeg": "/sman3bojonegoro/static/media/isra'-mi'raj.68e2f8c8a09a4e00604d.jpeg",
+    "static/media/galeri2.jpg": "/sman3bojonegoro/static/media/galeri2.e1e8dce49af889e6d113.jpg",
+    "static/media/galeri3.jpg": "/sman3bojonegoro/static/media/galeri3.817fe4a2eb7383e11011.jpg",
+    "static/media/galeri1.jpg": "/sman3bojonegoro/static/media/galeri1.c5074a8e32ca91eb51e8.jpg",
+    "static/media/card3.jpg": "/sman3bojonegoro/static/media/card3.b7213b33b400c1d207d3.jpg",
+    "static/media/card2.jpg": "/sman3bojonegoro/static/media/card2.8b8f6b4654027d154837.jpg",
+    "static/media/card1.jpg": "/sman3bojonegoro/static/media/card1.d25aa9be8aa2dcfd398f.jpg",
+    "static/media/logo.png": "/sman3bojonegoro/static/media/logo.ac285c6ce020231c4552.png",
+    "static/media/universitas1.jpg": "/sman3bojonegoro/static/media/universitas1.f9eb57116ce4d93e13e1.jpg",
+    "static/media/logo.svg": "/sman3bojonegoro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sman3bojonegoro/index.html",
+    "main.536e33e5.css.map": "/sman3bojonegoro/static/css/main.536e33e5.css.map",
+    "main.a6e69760.js.map": "/sman3bojonegoro/static/js/main.a6e69760.js.map",
+    "787.ff093841.chunk.js.map": "/sman3bojonegoro/static/js/787.ff093841.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536e33e5.css",
+    "static/js/main.a6e69760.js"
+  ]
+}
